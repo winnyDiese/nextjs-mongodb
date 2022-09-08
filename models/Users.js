@@ -2,6 +2,7 @@
 // For user user example -> create a table for user
 import mongoose from 'mongoose'
 
+
 const UserSchema = new mongoose.Schema(
     {
         // here we create the column in the table
